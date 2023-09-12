@@ -5,7 +5,7 @@
       "title": "The Mystery of the Hidden Treasure",
       "author": "Jane Smith",
       "author_img": "https://i.ibb.co/Fqr4s1K/profile.png",        
-      "posted_time": "September 5, 2023, 14:30 UTC",
+      "posted_time": "September 5",
       "reading_time": "12",
       "hashtags": ["#Mystery", "#Adventure", "#TreasureHunt"]
     },
@@ -15,7 +15,7 @@
       "title": "The Galactic Odyssey",
       "author": "John Doe",
       "author_img": "https://i.ibb.co/Fqr4s1K/profile.png",
-      "posted_time": "August 28, 2023, 11:15 UTC",
+      "posted_time": "August 28",
       "reading_time": "20",
       "hashtags": ["#ScienceFiction", "#SpaceAdventure", "#Aliens"]
     },
@@ -25,7 +25,7 @@
       "title": "Cooking with Flair",
       "author": "Maria Garcia",
       "author_img": "https://i.ibb.co/Fqr4s1K/profile.png",
-      "posted_time": "July 10, 2023, 09:45 UTC",
+      "posted_time": "July 10",
       "reading_time": "15",
       "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
     },
@@ -35,7 +35,7 @@
       "title": "A Journey Through Time",
       "author": "David Wilson",
       "author_img": "https://i.ibb.co/Fqr4s1K/profile.png",
-      "posted_time": "June 2, 2023, 16:20 UTC",
+      "posted_time": "June 2",
       "reading_time": "18",
       "hashtags": ["#History", "#TimeTravel", "#Adventure"]
     },
@@ -45,7 +45,7 @@
       "title": "The Art of Mindfulness",
       "author": "Sarah Johnson",
       "author_img": "https://i.ibb.co/Fqr4s1K/profile.png",
-      "posted_time": "May 15, 2023, 13:00 UTC",
+      "posted_time": "May 15",
       "reading_time": "10",
       "hashtags": ["#Mindfulness", "#Wellness", "#SelfCare"]
     }
